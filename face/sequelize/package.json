@@ -16,7 +16,7 @@
     "egg-bin": "^4.8.1",
     "egg-mock": "^3.19.2",
     "factory-girl": "^5.0.2",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "sequelize-cli": "^5.0.0"
   },
   "engines": {
